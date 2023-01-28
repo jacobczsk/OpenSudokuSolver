@@ -1,0 +1,2 @@
+# OpenSudokuSolver
+ Solve sudoku
